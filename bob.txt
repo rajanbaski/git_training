@@ -7,3 +7,6 @@ Adding one more line
 ---
 adding text in master
 ---
+added new branch change3_bob
+---
+to re-base master to change2_bob
